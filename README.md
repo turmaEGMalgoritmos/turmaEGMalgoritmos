@@ -1,4 +1,4 @@
-## sejam bem-vindos 👋 ##
+## Sejam bem-vindos 👋 ##
 
    - ⚙ Estudantes de Engenharia mecânica.
    - 📚 Perfil criado para estudos.
